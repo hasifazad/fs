@@ -20,5 +20,12 @@ read.question('What is your name? ', (name) => {
 console.log('helooooo');
 
 
+console.log('asdsadad');
+console.log('asdsadad');
+console.log('asdsadad');
+console.log('asdsadad');
+console.log('asdsadad');
+console.log('asdsadad');
+console.log('asdsadad');
 
 
