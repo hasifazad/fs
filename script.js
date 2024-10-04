@@ -10,12 +10,14 @@ const read = readline.createInterface({
 
 // Ask the user a question
 read.question('What is your name? ', (name) => {
-    
+
     console.log(`Hello, ${name}!`);
 
     // Close the readline interface
     read.close();
 });
+
+console.log('helooooo');
 
 
 
